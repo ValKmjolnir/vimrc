@@ -20,3 +20,5 @@ autocmd BufRead,BufNewFile *.gdl set filetype = rust
 autocmd BufRead,BufNewFile *.gs set filetype = rust
 autocmd BufRead,BufNewFile *.ll set filetype = llvm
 
+colorscheme molokai
+hi Normal guibg=NONE ctermbg=NONE
